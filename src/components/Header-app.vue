@@ -21,7 +21,7 @@ export default {
   background-color: #333;
   padding: 10px;
   color: #fff;
-  display: flex;
+  display: flex; 
   justify-content: space-around;
 }
 

@@ -35,7 +35,7 @@ export default {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   color: #333;
 }
-
+ 
 .fade-in {
   transition: opacity 0.5s;
 }

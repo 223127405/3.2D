@@ -7,7 +7,7 @@
           <p>{{ project.description }}</p>
         </li>
       </ul>
-    </div>
+    </div> 
   </template>
   
   <script>

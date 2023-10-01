@@ -9,7 +9,7 @@ export default createStore({
   mutations: {
     setAdminLoggedIn(state, value) {
       state.isAdminLoggedIn = value;
-    },
+    }, 
   },
   actions: {
     loginAdmin({ commit }, { username, password }) {

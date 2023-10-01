@@ -11,7 +11,7 @@ import HeaderApp from '@/components/Header-app.vue'; // Update the import path
 import FooterApp from '@/components/footer-app.vue'; // Update the import path
 
 export default {
-  components: {
+  components: { 
       HeaderApp,
       FooterApp,
   },

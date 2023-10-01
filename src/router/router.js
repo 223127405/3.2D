@@ -35,7 +35,7 @@ const routes = [
     name: 'Projects',
     component: ProjectsView
   },
-  {
+  { 
     path: '/resume',
     name: 'Resume',
     component: ResumeView,

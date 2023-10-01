@@ -8,7 +8,7 @@
           <h2>Aryan Arora</h2>
           <p>Email: aryanarora235rja.com</p>
           <p>Phone: 0478232218</p>
-        </div>
+        </div> 
       </div>
   
       <div class="resume-content-container">

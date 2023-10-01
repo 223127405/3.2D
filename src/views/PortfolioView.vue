@@ -10,7 +10,7 @@
             </li>
             <li>
                 <b>DAV Public School</b><br />
-                Amritsar, India<br />
+                Amritsar, India<br /> 
                 March/2019 – June/2022<br />
             </li>
         </ul>

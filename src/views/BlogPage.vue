@@ -29,7 +29,7 @@
       };
     },
     computed: {
-      isAdminLoggedIn() {
+      isAdminLoggedIn() { 
         return this.$store.getters.isAdminLoggedIn;
       },
     },

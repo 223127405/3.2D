@@ -10,7 +10,7 @@
         <div class="form-group">
           <label for="content">Content:</label>
           <textarea v-model="newBlog.content" required></textarea>
-        </div>
+        </div> 
         <button class="btn">Create</button>
       </form>
     </div>

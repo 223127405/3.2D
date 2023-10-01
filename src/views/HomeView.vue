@@ -6,7 +6,7 @@
     <button @click="viewProjects" class="view-projects-button">View Projects</button>
   </div>
 </template>
-
+ 
 <script>
 export default {
   name: 'HomeView',
