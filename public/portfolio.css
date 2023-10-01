@@ -1,0 +1,48 @@
+/* Resetting default styles */
+html, body, h1, h2, h3, p, ul, li, a, button, input {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Setting background color */
+body {
+    background-color: #ADD8E6; /* Light Blue */
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+/* Styling the header section */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling the main content */
+main {
+    padding: 20px;
+}
+
+/* Designing section headers */
+h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #333; /* Black */
+}
+
+/* Designing paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; /* Black */
+}
+
+/* Styling the footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
