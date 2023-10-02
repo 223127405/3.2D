@@ -2,7 +2,7 @@
     <div class="contact-view">
       <h2>Contact Information</h2>
       <p>
-        Address: Melbourne, Australia<br>
+        Address: Melbourne, Australia<br> 
         Tel: 0478232218<br> 
         Email: aryanarora235rja@gmail.com<br>
         LinkedIn: <a href="https://www.linkedin.com/in/aryan-arora-324964267/" target="_blank">

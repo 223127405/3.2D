@@ -35,7 +35,7 @@ const routes = [
     name: 'Projects',
     component: ProjectsView
   },
-  { 
+  {  
     path: '/resume',
     name: 'Resume',
     component: ResumeView,
@@ -50,7 +50,7 @@ const routes = [
     path: '/blog-post',
     name: 'BlogPost',
     component: BlogPost,
-    meta: { requiresAuth: true },
+    meta: { requiresAuth: true }, 
   },
   {
     path: '/blog-page',  

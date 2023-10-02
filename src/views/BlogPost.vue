@@ -5,7 +5,7 @@
       <form @submit.prevent="addBlog">
         <div class="form-group">
           <label for="title">Title:</label>
-          <input type="text" v-model="newBlog.title" required />
+          <input type="text" v-model="newBlog.title" required /> 
         </div>
         <div class="form-group">
           <label for="content">Content:</label>

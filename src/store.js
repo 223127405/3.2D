@@ -1,6 +1,6 @@
-// store.js
 
-import { createStore } from 'vuex';
+
+import { createStore } from 'vuex'; 
 
 export default createStore({
   state: {
@@ -10,7 +10,7 @@ export default createStore({
     setAdminLoggedIn(state, value) {
       state.isAdminLoggedIn = value;
     }, 
-  },
+  }, 
   actions: {
     loginAdmin({ commit }, { username, password }) {
       const adminCredentials = {

@@ -6,7 +6,7 @@
         </div>
         <div class="resume-details">
           <h2>Aryan Arora</h2>
-          <p>Email: aryanarora235rja.com</p>
+          <p>Email: aryanarora235rja.com</p> 
           <p>Phone: 0478232218</p>
         </div> 
       </div>

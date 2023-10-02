@@ -31,7 +31,7 @@
     computed: {
       isAdminLoggedIn() { 
         return this.$store.getters.isAdminLoggedIn;
-      },
+      }, 
     },
     methods: {
       addBlog() {

@@ -1,6 +1,6 @@
 <template>
   <footer>
-      <div class="footer-content">
+      <div class="footer-content"> 
           <div class="copyright">
               &copy; 2023 ARYAN ARORA
           </div>
@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style scoped>
-/* Add your styles for the footer here */
+
 footer {
   text-align: center;
   padding: 10px;

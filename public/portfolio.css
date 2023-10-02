@@ -5,7 +5,7 @@ html, body, h1, h2, h3, p, ul, li, a, button, input {
     border: 0; 
 }
 
-/* Setting background color */
+/* Setting background color */ 
 body {
     background-color: #ADD8E6; /* Light Blue */
     font-family: Arial, sans-serif;

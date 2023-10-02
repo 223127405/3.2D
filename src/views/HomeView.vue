@@ -5,7 +5,7 @@
     <router-link to="/about" class="learn-more-link">Learn more about me</router-link>
     <button @click="viewProjects" class="view-projects-button">View Projects</button>
   </div>
-</template>
+</template> 
  
 <script>
 export default {

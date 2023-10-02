@@ -7,7 +7,7 @@
                 Deakin University, Burwood<br />
                 March/2023 – Expected completion date: November 2025<br />
                 Achievements: #c, c++, Python, Java, Html
-            </li>
+            </li> 
             <li>
                 <b>DAV Public School</b><br />
                 Amritsar, India<br /> 

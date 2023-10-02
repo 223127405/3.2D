@@ -62,7 +62,7 @@ export default {
   margin-bottom: 15px;
 }
 
-input {
+input { 
   padding: 10px;
   width: 100%;
 }
